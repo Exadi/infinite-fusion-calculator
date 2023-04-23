@@ -471,7 +471,7 @@ const fusionNameParts = [
   ["BA", "GON"],
   ["SHELL", "GON"], //oddly, the prefix does actually have more Ls than Shelgon's actual name
   ["KLINK", "INK"],
-  ["KLANG", "ANG"],
+  ["KLAN", "ANG"],
   ["ZO", "RUA"],
   ["BUD", "DEW"],
   ["ROSE", "LIA"],
